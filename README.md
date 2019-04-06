@@ -1,29 +1,12 @@
-# about-equation-solver
+# 해킹과 방정식
+About Equation Solver: 디미고 1학년 수학 수행평가 발표 (1/2)
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- 컴퓨터로 방정식의 해를 구할 수 있을까?
+- CTF란?
+- 리버싱?
+- solver란?
+- Algebra 시연
+- solver의 원리 
+- solver가 필요한 리버싱 문제
+- z3 소개
+- angr 소개
